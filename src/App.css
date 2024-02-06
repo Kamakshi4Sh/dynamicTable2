@@ -1,0 +1,13 @@
+table, 
+th, 
+td { 
+    
+    
+    border: 1.5px solid black; 
+} 
+table {
+  width: 100%;
+}
+button{
+  width:50%;
+}
